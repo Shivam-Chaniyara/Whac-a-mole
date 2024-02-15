@@ -1,6 +1,6 @@
 ## Whac-a-mole
 
-#Live Demo
+# Live Demo
 https://shivam-chaniyara.github.io/Whac-a-mole/
 
 # Description
@@ -8,14 +8,8 @@ Whac-A-Mole is a classic arcade game where players must quickly hit popping mole
 
 # Features And Validations
 
-Whac-A-Mole Gameplay:
 -Score tracking and clean user interface.
 -Mouse click events for hitting moles.
-
-Responsive Design and Compatibility:
 -Responsive layout for various devices.
 -Cross-browser compatibility testing.
-
-Code Quality and Testing:
--Clean, well-structured code following best practices.
 -Thorough testing to identify and resolve bugs.
